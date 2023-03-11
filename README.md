@@ -23,11 +23,9 @@
 - [ ] Aplicação completa.
 <br><br>
 ## 3. Linguagens e tecnologias utilizadas
-**Back-end:**
-Python, Flask e SQLAlchemy.
+**Back-end**: Python, Flask e SQLAlchemy.
 
-**Front-end:**
-HTML, CSS e Bootstrap.
+**Front-end**: HTML, CSS e Bootstrap.
 <br><br>
 
 ## 4. Especificações
