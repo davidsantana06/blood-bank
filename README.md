@@ -3,7 +3,7 @@
 </p>
 
 
-## 1. Resumo do projeto
+## 1. Resumo
 <div align="justify">
   (PT-BR) Blood Bank é um sistema de gerenciamento que possibilita a interação do usuário com o posto por meio da internet. Com ele, é possível averigurar 
   a unidade para consultar os tipos sanguíneos disponíveis e marcar a doação de sangue.
