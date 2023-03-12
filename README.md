@@ -31,15 +31,15 @@
 ## 4. Especificações
 <div align="justify">
   Com relação ao funcionamento da aplicação, ocorre a distinção entre usuários e clientes. Em primeiro lugar, os usuários poderão consultar os tipos 
-  sanguíneos disponíveis para retirada, visualizar os tipos sanguíneos compatíveis com o seu, e marcar a doação de sangue segundo o cronograma de horários 
+  sanguíneos disponíveis para retirada, visualizar os tipos sanguíneos compatíveis com o seu e marcar a doação de sangue segundo o cronograma de horários 
   disponíveis. Em segundo lugar, os usuários poderão registrar as operações de retirada e doação de sangue, além de gerenciar alguns aspectos a respeito 
   do funcionamento da aplicação. 
   <br><br>
   Não há limite para doação de sangue, desde que o doador apresente, no mínimo, 3 semanas de diferença entre as doações. A respeito da retirada de sangue
   no posto, haverá um limite anual para sua realização, além disso, sua marcação só ocorerrá com a devida disponibilidade do tipo sanguíneo.
   <br><br>
-  Por fim, cabe salientar que os clientes serão cadastrados no sistemas, a fim de registrar suas operações com o posto; ainda assim, para qualquer interação,
-  será necessário apresentar a documentação para sua identificação, à ser validade digitalmente.
+  Por fim, cabe salientar que os clientes serão cadastrados no sistema, a fim de registrar suas operações com o posto; ainda assim, para qualquer interação,
+  será necessário apresentar a documentação para sua identificação, a ser validado digitalmente.
 </div>
 <br>
 
